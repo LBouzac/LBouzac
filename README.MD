@@ -8,7 +8,6 @@
 
 <br/>
 
-[![Site web](https://img.shields.io/badge/SITE-trantors.cc-00f0ff?style=for-the-badge&labelColor=ff2a6d&color=05010a)](https://trantors.cc)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-ludovic--bouzac-00f0ff?style=for-the-badge&labelColor=ff2a6d&color=05010a)](https://www.linkedin.com/in/ludovic-bouzac/)
 [![Email](https://img.shields.io/badge/EMAIL-bouzacludovic%40gmail.com-00f0ff?style=for-the-badge&labelColor=ff2a6d&color=05010a)](mailto:bouzacludovic@gmail.com)
 
@@ -35,9 +34,6 @@ Rigoureux et à l'aise en équipe, j'aime comprendre toute la chaîne : du code 
   OUTILS       Linux, Docker, Proxmox, Git, Claude, Hermes Agent
   LANGUES      Français (natif), Anglais (B2), Italien (A1)
   MOBILITE     Toulouse, permis B, véhiculé
-
-> STATUT : DISPONIBLE
-> RECHERCHE : alternance d'un an, 3 semaines en entreprise / 1 semaine à l'IPI
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2a6d,100:00f0ff&height=3" width="100%" alt="" />
@@ -107,6 +103,10 @@ Rigoureux et à l'aise en équipe, j'aime comprendre toute la chaîne : du code 
 ### [PVE HUB](https://github.com/LBouzac/pvehub)
 
 Application web (PWA) pour gérer mon serveur **Proxmox** depuis mon téléphone, avec un chat **Hermes Agent** intégré pour piloter le homelab en langage naturel.
+
+### [JEU SUR KERMESSE.SITE](https://kermesse.site)
+
+Jeu que j'ai créé sur le site **kermesse.site**.
 
 <div align="center">
 
