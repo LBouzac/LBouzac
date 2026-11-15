@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,rust,ts,angular,php,java,spring,kotlin,androidstudio,cs,mysql,docker,linux,git,github,vscode&perline=9" alt="Technologies" />
+<img src="https://skillicons.dev/icons?i=python,django,rust,ts,angular,php,java,spring,kotlin,androidstudio,cs,mysql,postgres,docker,linux,git,github,vscode&perline=9" alt="Technologies" />
 
 <br/>
 
@@ -46,25 +46,33 @@
 
 | Domaine | Technologies |
 | --- | --- |
-| **Back-end** | Python (Django), Java (Spring), PHP, C#, Rust |
+| **Back-end** | C#, Python (Django), Java (Spring), PHP, Rust |
 | **Front-end** | TypeScript (Angular), HTML / CSS, JavaScript |
 | **Mobile** | Kotlin (Android) |
-| **Données** | SQL (MySQL) |
+| **Données** | SQL (PostgreSQL, MySQL) |
 | **Conception** | UML, conception logicielle, tests unitaires |
 | **Infra & outils** | Linux, Docker, Proxmox, Git / GitHub |
 | **IA** | Claude, Claude Code, Hermes Agent : agents et assistants dans mon workflow de dev |
 
 ## 💼 Expérience
 
-**Développeur en alternance · Proges** (Labège), novembre 2024 – aujourd'hui
-- Développement de fenêtres pour la future version du logiciel Proges
-- Mise en place de tests unitaires
-- Refonte de certaines parties du site web
-- Développement d'un CRM d'entreprise (clients, devis…)
+### 🔹 Développeur en alternance · Proges
+📍 Labège · 🗓️ Novembre 2024 – aujourd'hui
 
-**Développeur en alternance · Anras DIME Saint-Jean** (Plaisance-du-Touch), juillet 2023 – juillet 2024
-- Site web de gestion des variations d'horaires (PHP, SQL, JavaScript, Composer, sendMail)
-- Interventions sur les différents sites pour installer et dépanner des logiciels
+Éditeur de logiciels : je participe à l'évolution du produit et aux outils internes.
+
+- 🖥️ **Logiciel Proges** : conception et développement de fenêtres pour la prochaine version
+- ✅ **Qualité** : mise en place de tests unitaires pour fiabiliser le code
+- 🌐 **Site web** : refonte de plusieurs parties du site de l'entreprise
+- 📇 **CRM interne** : développement d'un CRM d'entreprise pour gérer les clients, les devis et leur suivi
+- 🧰 **Stack** : `C#` · `PostgreSQL`
+
+### 🔹 Développeur en alternance · Anras DIME Saint-Jean
+📍 Plaisance-du-Touch · 🗓️ Juillet 2023 – Juillet 2024
+
+- 🕒 **Gestion des horaires** : développement d'un site web de suivi des variations d'horaire, de la base de données à l'envoi des notifications par e-mail
+- 🧰 **Stack** : `PHP` · `SQL` · `JavaScript` · `Composer` · `sendMail`
+- 🔧 **Support terrain** : interventions sur les différents sites de la DIME Saint-Jean pour installer et dépanner des logiciels
 
 ## 🎓 Formation
 
@@ -80,10 +88,6 @@
 ### [PVE Hub](https://github.com/LBouzac/pvehub)
 
 Application web (PWA) pour gérer mon serveur **Proxmox** depuis mon téléphone, avec un chat **Hermes Agent** intégré pour piloter le homelab en langage naturel.
-
-## 🎯 Centres d'intérêt
-
-Sport 🏋️ · Lecture 📚 · Jeux vidéo 🎮 · Films et séries 🎬 · Culture générale · Voyage ✈️
 
 ---
 
