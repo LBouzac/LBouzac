@@ -1,46 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ludovic%20Bouzac&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20alternant%20%E2%80%A2%20Futur%20Ing%C3%A9nieur%20D%C3%A9veloppeur&descAlignY=60&descSize=17" alt="Bandeau" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=LUDOVIC%20BOUZAC&fontColor=33ff33&fontSize=52&fontAlignY=45&animation=blink&desc=%3E%20D%C3%89VELOPPEUR%20FULL-STACK%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=72&descSize=16" alt="Bandeau" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+full-stack+en+alternance;Master+Informatique+%C3%A0+l'IPI+Toulouse;Je+code+avec+et+autour+de+l'IA;Linux+%26+self-hosting+au+quotidien" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3000&pause=1000&color=33FF33&background=0D1117&center=true&vCenter=true&width=640&height=50&lines=%3E+D%C3%A9veloppeur+full-stack+en+alternance_;%3E+Master+Informatique+%C3%A0+l'IPI+Toulouse_;%3E+Je+code+avec+et+autour+de+l'IA_;%3E+Linux+%26+self-hosting+au+quotidien_" alt="Typing SVG" />
 </a>
 
-[![Site web](https://img.shields.io/badge/Site-trantors.cc-2c5364?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://trantors.cc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ludovic--bouzac-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludovic-bouzac/)
-[![Email](https://img.shields.io/badge/Email-bouzacludovic%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouzacludovic@gmail.com)
+<br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=LBouzac&label=Vues&color=2c5364&style=flat)
-[![Followers](https://img.shields.io/github/followers/LBouzac?style=flat&logo=github&label=Followers)](https://github.com/LBouzac?tab=followers)
+[![Site web](https://img.shields.io/badge/SITE-trantors.cc-33ff33?style=for-the-badge&labelColor=0d1117)](https://trantors.cc)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ludovic--bouzac-33ff33?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/ludovic-bouzac/)
+[![Email](https://img.shields.io/badge/EMAIL-bouzacludovic%40gmail.com-33ff33?style=for-the-badge&labelColor=0d1117)](mailto:bouzacludovic@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=LBouzac&label=VISITES&color=33ff33&labelColor=0d1117&style=for-the-badge)
 
 </div>
 
 ---
 
-## À propos
+## $ whoami
 
 Étudiant alternant en **Master Informatique à l'IPI (Toulouse)**, je me forme pour devenir **ingénieur développeur**. Rigoureux, avec un bon esprit d'équipe, j'aime autant construire des applications que comprendre ce qui tourne en dessous (réseaux, serveurs, Linux).
 
-- **Formation** : Master Informatique à l'IPI (2025 – 2027), après un Bachelor CDAN et un BTS SIO option SLAM
-- **Poste actuel** : développeur en alternance chez **Proges** depuis novembre 2024
-- **Recherche** : alternance d'un an, rythme 3 semaines en entreprise / 1 semaine à l'IPI
-- **IA** : à l'aise avec **Claude** (dont Claude Code) et **Hermes Agent**
-- **Infrastructure** : Linux au quotidien, homelab sous **Proxmox**
-- **Langues** : français (langue maternelle), anglais (B2), italien (A1)
-- **Mobilité** : permis B, véhiculé, basé à Toulouse
+```
+$ cat profil.txt
 
-## Compétences
+FORMATION  : Master Informatique, IPI Toulouse (2025 - 2027)
+POSTE      : Développeur en alternance, Proges (depuis nov. 2024)
+RECHERCHE  : Alternance d'un an, 3 semaines entreprise / 1 semaine école
+IA         : Claude, Claude Code, Hermes Agent
+INFRA      : Linux au quotidien, homelab Proxmox
+LANGUES    : Français (natif), Anglais (B2), Italien (A1)
+MOBILITE   : Permis B, véhiculé, Toulouse
+
+$ _
+```
+
+---
+
+## $ skills --list
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,rust,ts,angular,php,java,spring,kotlin,androidstudio,cs,mysql,postgres,docker,linux,git,github,vscode&perline=9" alt="Technologies" />
+<img src="https://skillicons.dev/icons?i=python,django,rust,ts,angular,php,java,spring,kotlin,androidstudio,cs,mysql,postgres,docker,linux,git,github,vscode&perline=9&theme=dark" alt="Technologies" />
 
 <br/>
 
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-4B5563?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-Conception-2c5364?style=for-the-badge)
+![Proxmox](https://img.shields.io/badge/PROXMOX-0d1117?style=for-the-badge&logo=proxmox&logoColor=33ff33&labelColor=0d1117&color=33ff33)
+![Claude](https://img.shields.io/badge/CLAUDE-0d1117?style=for-the-badge&logo=anthropic&logoColor=33ff33&labelColor=0d1117&color=33ff33)
+![Hermes Agent](https://img.shields.io/badge/HERMES_AGENT-0d1117?style=for-the-badge&labelColor=0d1117&color=33ff33)
+![UML](https://img.shields.io/badge/UML-CONCEPTION-0d1117?style=for-the-badge&labelColor=0d1117&color=33ff33)
 
 </div>
 
@@ -54,10 +63,12 @@
 | **Infra & outils** | Linux, Docker, Proxmox, Git / GitHub |
 | **IA** | Claude, Claude Code, Hermes Agent : agents et assistants dans mon workflow de dev |
 
-## Expérience
+---
 
-### Développeur en alternance · Proges
-Labège · Novembre 2024 – aujourd'hui
+## $ history --jobs
+
+### Proges :: Développeur en alternance
+`Labège  |  novembre 2024 - aujourd'hui`
 
 Éditeur de logiciels : je participe à l'évolution du produit et aux outils internes.
 
@@ -67,23 +78,27 @@ Labège · Novembre 2024 – aujourd'hui
 - **CRM interne** : développement d'un CRM d'entreprise pour gérer les clients, les devis et leur suivi
 - **Stack** : `C#` · `PostgreSQL`
 
-### Développeur en alternance · Anras DIME Saint-Jean
-Plaisance-du-Touch · Juillet 2023 – Juillet 2024
+### Anras DIME Saint-Jean :: Développeur en alternance
+`Plaisance-du-Touch  |  juillet 2023 - juillet 2024`
 
 - **Gestion des horaires** : développement d'un site web de suivi des variations d'horaire, de la base de données à l'envoi des notifications par e-mail
 - **Stack** : `PHP` · `SQL` · `JavaScript` · `Composer` · `sendMail`
 - **Support terrain** : interventions sur les différents sites de la DIME Saint-Jean pour installer et dépanner des logiciels
 
-## Formation
+---
+
+## $ history --education
 
 | Période | Diplôme | Établissement |
 | --- | --- | --- |
-| 2025 – 2027 | Master Informatique (C#, Java, Kotlin, UML, conception logicielle) | IPI, Toulouse |
-| 2024 – 2025 | Bachelor CDAN (Python, Angular, UML, Kotlin, Java), diplôme obtenu | IPI, Toulouse |
-| 2022 – 2024 | BTS SIO option SLAM (PHP, Java, SQL, UML), diplôme obtenu | Institut Limayrac, Toulouse |
-| 2019 – 2022 | Bac pro Systèmes Numériques option RISC (réseaux), diplôme obtenu | Lycée Jules Fil, Carcassonne |
+| 2025 - 2027 | Master Informatique (C#, Java, Kotlin, UML, conception logicielle) | IPI, Toulouse |
+| 2024 - 2025 | Bachelor CDAN (Python, Angular, UML, Kotlin, Java), diplôme obtenu | IPI, Toulouse |
+| 2022 - 2024 | BTS SIO option SLAM (PHP, Java, SQL, UML), diplôme obtenu | Institut Limayrac, Toulouse |
+| 2019 - 2022 | Bac pro Systèmes Numériques option RISC (réseaux), diplôme obtenu | Lycée Jules Fil, Carcassonne |
 
-## Projets
+---
+
+## $ ls projets/
 
 ### [PVE Hub](https://github.com/LBouzac/pvehub)
 
@@ -93,6 +108,6 @@ Application web (PWA) pour gérer mon serveur **Proxmox** depuis mon téléphone
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Pied de page" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=%24%20_&fontColor=33ff33&fontSize=30&animation=blink" alt="Fin du fichier" />
 
 </div>
