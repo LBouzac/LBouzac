@@ -17,19 +17,19 @@
 
 ---
 
-## 👋 À propos
+## À propos
 
 Étudiant alternant en **Master Informatique à l'IPI (Toulouse)**, je me forme pour devenir **ingénieur développeur**. Rigoureux, avec un bon esprit d'équipe, j'aime autant construire des applications que comprendre ce qui tourne en dessous (réseaux, serveurs, Linux).
 
-- 🎓 Master Informatique à l'IPI (2025 – 2027), après un Bachelor CDAN et un BTS SIO option SLAM
-- 💼 Développeur en alternance chez **Proges** depuis novembre 2024
-- 🔎 **À la recherche d'une alternance d'un an**, rythme 3 semaines en entreprise / 1 semaine à l'IPI
-- 🤖 À l'aise avec les outils d'IA : **Claude** (dont Claude Code) et **Hermes Agent**
-- 🐧 Linux au quotidien, homelab sous **Proxmox**
-- 🌍 Français (langue maternelle) · Anglais (B2) · Italien (A1)
-- 🚗 Permis B, véhiculé · 📍 Toulouse
+- **Formation** : Master Informatique à l'IPI (2025 – 2027), après un Bachelor CDAN et un BTS SIO option SLAM
+- **Poste actuel** : développeur en alternance chez **Proges** depuis novembre 2024
+- **Recherche** : alternance d'un an, rythme 3 semaines en entreprise / 1 semaine à l'IPI
+- **IA** : à l'aise avec **Claude** (dont Claude Code) et **Hermes Agent**
+- **Infrastructure** : Linux au quotidien, homelab sous **Proxmox**
+- **Langues** : français (langue maternelle), anglais (B2), italien (A1)
+- **Mobilité** : permis B, véhiculé, basé à Toulouse
 
-## 🛠️ Compétences
+## Compétences
 
 <div align="center">
 
@@ -54,36 +54,36 @@
 | **Infra & outils** | Linux, Docker, Proxmox, Git / GitHub |
 | **IA** | Claude, Claude Code, Hermes Agent : agents et assistants dans mon workflow de dev |
 
-## 💼 Expérience
+## Expérience
 
-### 🔹 Développeur en alternance · Proges
-📍 Labège · 🗓️ Novembre 2024 – aujourd'hui
+### Développeur en alternance · Proges
+Labège · Novembre 2024 – aujourd'hui
 
 Éditeur de logiciels : je participe à l'évolution du produit et aux outils internes.
 
-- 🖥️ **Logiciel Proges** : conception et développement de fenêtres pour la prochaine version
-- ✅ **Qualité** : mise en place de tests unitaires pour fiabiliser le code
-- 🌐 **Site web** : refonte de plusieurs parties du site de l'entreprise
-- 📇 **CRM interne** : développement d'un CRM d'entreprise pour gérer les clients, les devis et leur suivi
-- 🧰 **Stack** : `C#` · `PostgreSQL`
+- **Logiciel Proges** : conception et développement de fenêtres pour la prochaine version
+- **Qualité** : mise en place de tests unitaires pour fiabiliser le code
+- **Site web** : refonte de plusieurs parties du site de l'entreprise
+- **CRM interne** : développement d'un CRM d'entreprise pour gérer les clients, les devis et leur suivi
+- **Stack** : `C#` · `PostgreSQL`
 
-### 🔹 Développeur en alternance · Anras DIME Saint-Jean
-📍 Plaisance-du-Touch · 🗓️ Juillet 2023 – Juillet 2024
+### Développeur en alternance · Anras DIME Saint-Jean
+Plaisance-du-Touch · Juillet 2023 – Juillet 2024
 
-- 🕒 **Gestion des horaires** : développement d'un site web de suivi des variations d'horaire, de la base de données à l'envoi des notifications par e-mail
-- 🧰 **Stack** : `PHP` · `SQL` · `JavaScript` · `Composer` · `sendMail`
-- 🔧 **Support terrain** : interventions sur les différents sites de la DIME Saint-Jean pour installer et dépanner des logiciels
+- **Gestion des horaires** : développement d'un site web de suivi des variations d'horaire, de la base de données à l'envoi des notifications par e-mail
+- **Stack** : `PHP` · `SQL` · `JavaScript` · `Composer` · `sendMail`
+- **Support terrain** : interventions sur les différents sites de la DIME Saint-Jean pour installer et dépanner des logiciels
 
-## 🎓 Formation
+## Formation
 
 | Période | Diplôme | Établissement |
 | --- | --- | --- |
 | 2025 – 2027 | Master Informatique (C#, Java, Kotlin, UML, conception logicielle) | IPI, Toulouse |
-| 2024 – 2025 | Bachelor CDAN (Python, Angular, UML, Kotlin, Java) ✅ | IPI, Toulouse |
-| 2022 – 2024 | BTS SIO option SLAM (PHP, Java, SQL, UML) ✅ | Institut Limayrac, Toulouse |
-| 2019 – 2022 | Bac pro Systèmes Numériques option RISC (réseaux) ✅ | Lycée Jules Fil, Carcassonne |
+| 2024 – 2025 | Bachelor CDAN (Python, Angular, UML, Kotlin, Java), diplôme obtenu | IPI, Toulouse |
+| 2022 – 2024 | BTS SIO option SLAM (PHP, Java, SQL, UML), diplôme obtenu | Institut Limayrac, Toulouse |
+| 2019 – 2022 | Bac pro Systèmes Numériques option RISC (réseaux), diplôme obtenu | Lycée Jules Fil, Carcassonne |
 
-## 🚀 Projets
+## Projets
 
 ### [PVE Hub](https://github.com/LBouzac/pvehub)
 
