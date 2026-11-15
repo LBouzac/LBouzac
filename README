@@ -1,9 +1,11 @@
+<!-- Profil GitHub : à placer dans le dépôt public LBouzac/LBouzac (fichier README.md à la racine) -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ludovic%20Bouzac&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20full-stack&descAlignY=60&descSize=18" alt="Bandeau" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Je+code+des+applis+web+et+logicielles;J'aime+Linux+et+le+sh;Toujours+un+petit+projet+en+cours" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Je+code+des+applis+web+et+logicielles;J'aime+le+Linux+et+le+self-hosting;Toujours+un+petit+projet+en+cours" alt="Typing SVG" />
 </a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=LBouzac&label=Vues&color=2c5364&style=flat)
@@ -16,9 +18,10 @@
 ## 👋 À propos
 
 - 💻 Développeur **full-stack**, formé en **BTS SIO option SLAM** puis en certification pro
-- 🔭 Je travaille actuellement sur plusieurs projets perso
+- 🔭 Je travaille actuellement sur plusieurs projets perso (voir plus bas)
 - 🐧 Utilisateur Linux au quotidien, et fan de self-hosting
 - 🎮 Joueur de CS2 à mes heures perdues
+- 📫 Me contacter : _à compléter (email, LinkedIn…)_
 
 ## 🛠️ Stack & outils
 
@@ -27,6 +30,8 @@
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,rust,nodejs,react,mysql,git,github,linux,docker,vscode&perline=8" alt="Technologies" />
 
 </div>
+
+> 💡 Retire les icônes que tu ne maîtrises pas vraiment : la liste est modifiable dans l'URL (`i=...`), voir [skillicons.dev](https://skillicons.dev).
 
 ## 📊 Statistiques GitHub
 
@@ -52,6 +57,8 @@
 | --- | --- |
 | [PythonBF](https://github.com/LBouzac/PythonBF) | Projet Python réalisé pour la certification pro (V1 publiée) |
 | [SioSlamGroupe2](https://github.com/LBouzac/SioSlamGroupe2) | Site web de l'oral du BTS SIO SLAM, réalisé en groupe |
+
+_Ajoute ici tes autres dépôts (par exemple patate, cs2live) avec une phrase chacun._
 
 ## 🏆 Trophées
 
