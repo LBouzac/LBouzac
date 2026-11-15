@@ -1,12 +1,14 @@
-<!-- Profil GitHub : à placer dans le dépôt public LBouzac/LBouzac (fichier README.md à la racine) -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ludovic%20Bouzac&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20full-stack&descAlignY=60&descSize=18" alt="Bandeau" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ludovic%20Bouzac&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20alternant%20%E2%80%A2%20Futur%20Ing%C3%A9nieur%20D%C3%A9veloppeur&descAlignY=60&descSize=17" alt="Bandeau" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Je+code+des+applis+web+et+logicielles;J'aime+le+Linux+et+le+self-hosting;Toujours+un+petit+projet+en+cours" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+full-stack+en+alternance;Master+Informatique+%C3%A0+l'IPI+Toulouse;Je+code+avec+et+autour+de+l'IA;Linux+%26+self-hosting+au+quotidien" alt="Typing SVG" />
 </a>
+
+[![Site web](https://img.shields.io/badge/Site-trantors.cc-2c5364?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://trantors.cc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ludovic--bouzac-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludovic-bouzac/)
+[![Email](https://img.shields.io/badge/Email-bouzacludovic%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouzacludovic@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=LBouzac&label=Vues&color=2c5364&style=flat)
 [![Followers](https://img.shields.io/github/followers/LBouzac?style=flat&logo=github&label=Followers)](https://github.com/LBouzac?tab=followers)
@@ -17,56 +19,71 @@
 
 ## 👋 À propos
 
-- 💻 Développeur **full-stack**, formé en **BTS SIO option SLAM** puis en certification pro
-- 🔭 Je travaille actuellement sur plusieurs projets perso (voir plus bas)
-- 🐧 Utilisateur Linux au quotidien, et fan de self-hosting
-- 🎮 Joueur de CS2 à mes heures perdues
-- 📫 Me contacter : _à compléter (email, LinkedIn…)_
+Étudiant alternant en **Master Informatique à l'IPI (Toulouse)**, je me forme pour devenir **ingénieur développeur**. Rigoureux, avec un bon esprit d'équipe, j'aime autant construire des applications que comprendre ce qui tourne en dessous (réseaux, serveurs, Linux).
 
-## 🛠️ Stack & outils
+- 🎓 Master Informatique à l'IPI (2025 – 2027), après un Bachelor CDAN et un BTS SIO option SLAM
+- 💼 Développeur en alternance chez **Proges** depuis novembre 2024
+- 🔎 **À la recherche d'une alternance d'un an**, rythme 3 semaines en entreprise / 1 semaine à l'IPI
+- 🤖 À l'aise avec les outils d'IA : **Claude** (dont Claude Code) et **Hermes Agent**
+- 🐧 Linux au quotidien, homelab sous **Proxmox**
+- 🌍 Français (langue maternelle) · Anglais (B2) · Italien (A1)
+- 🚗 Permis B, véhiculé · 📍 Toulouse
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,rust,nodejs,react,mysql,git,github,linux,docker,vscode&perline=8" alt="Technologies" />
-
-</div>
-
-> 💡 Retire les icônes que tu ne maîtrises pas vraiment : la liste est modifiable dans l'URL (`i=...`), voir [skillicons.dev](https://skillicons.dev).
-
-## 📊 Statistiques GitHub
+## 🛠️ Compétences
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LBouzac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBouzac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages principaux" />
+<img src="https://skillicons.dev/icons?i=python,django,rust,ts,angular,php,java,spring,kotlin,androidstudio,cs,mysql,docker,linux,git,github,vscode&perline=9" alt="Technologies" />
 
-<img src="https://streak-stats.demolab.com?user=LBouzac&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
+<br/>
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-4B5563?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-Conception-2c5364?style=for-the-badge)
 
 </div>
+
+| Domaine | Technologies |
+| --- | --- |
+| **Back-end** | Python (Django), Java (Spring), PHP, C#, Rust |
+| **Front-end** | TypeScript (Angular), HTML / CSS, JavaScript |
+| **Mobile** | Kotlin (Android) |
+| **Données** | SQL (MySQL) |
+| **Conception** | UML, conception logicielle, tests unitaires |
+| **Infra & outils** | Linux, Docker, Proxmox, Git / GitHub |
+| **IA** | Claude, Claude Code, Hermes Agent : agents et assistants dans mon workflow de dev |
+
+## 💼 Expérience
+
+**Développeur en alternance · Proges** (Labège), novembre 2024 – aujourd'hui
+- Développement de fenêtres pour la future version du logiciel Proges
+- Mise en place de tests unitaires
+- Refonte de certaines parties du site web
+- Développement d'un CRM d'entreprise (clients, devis…)
+
+**Développeur en alternance · Anras DIME Saint-Jean** (Plaisance-du-Touch), juillet 2023 – juillet 2024
+- Site web de gestion des variations d'horaires (PHP, SQL, JavaScript, Composer, sendMail)
+- Interventions sur les différents sites pour installer et dépanner des logiciels
+
+## 🎓 Formation
+
+| Période | Diplôme | Établissement |
+| --- | --- | --- |
+| 2025 – 2027 | Master Informatique (C#, Java, Kotlin, UML, conception logicielle) | IPI, Toulouse |
+| 2024 – 2025 | Bachelor CDAN (Python, Angular, UML, Kotlin, Java) ✅ | IPI, Toulouse |
+| 2022 – 2024 | BTS SIO option SLAM (PHP, Java, SQL, UML) ✅ | Institut Limayrac, Toulouse |
+| 2019 – 2022 | Bac pro Systèmes Numériques option RISC (réseaux) ✅ | Lycée Jules Fil, Carcassonne |
 
 ## 🚀 Projets
 
-<div align="center">
+### [PVE Hub](https://github.com/LBouzac/pvehub)
 
-[![PythonBF](https://github-readme-stats.vercel.app/api/pin/?username=LBouzac&repo=PythonBF&theme=tokyonight&hide_border=true)](https://github.com/LBouzac/PythonBF)
-[![SioSlamGroupe2](https://github-readme-stats.vercel.app/api/pin/?username=LBouzac&repo=SioSlamGroupe2&theme=tokyonight&hide_border=true)](https://github.com/LBouzac/SioSlamGroupe2)
+Application web (PWA) pour gérer mon serveur **Proxmox** depuis mon téléphone, avec un chat **Hermes Agent** intégré pour piloter le homelab en langage naturel.
 
-</div>
+## 🎯 Centres d'intérêt
 
-| Projet | Description |
-| --- | --- |
-| [PythonBF](https://github.com/LBouzac/PythonBF) | Projet Python réalisé pour la certification pro (V1 publiée) |
-| [SioSlamGroupe2](https://github.com/LBouzac/SioSlamGroupe2) | Site web de l'oral du BTS SIO SLAM, réalisé en groupe |
-
-_Ajoute ici tes autres dépôts (par exemple patate, cs2live) avec une phrase chacun._
-
-## 🏆 Trophées
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LBouzac&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophées GitHub" />
-
-</div>
+Sport 🏋️ · Lecture 📚 · Jeux vidéo 🎮 · Films et séries 🎬 · Culture générale · Voyage ✈️
 
 ---
 
