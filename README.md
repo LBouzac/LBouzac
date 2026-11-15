@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ludovic%20Bouzac&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20full-stack&descAlignY=60&descSize=18" alt="Bandeau" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Je+code+des+applis+web+et+logicielles;J'aime+le+Linux+et+le+self-hosting;Toujours+un+petit+projet+en+cours" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Je+code+des+applis+web+et+logicielles;J'aime+Linux+et+le+sh;Toujours+un+petit+projet+en+cours" alt="Typing SVG" />
 </a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=LBouzac&label=Vues&color=2c5364&style=flat)
