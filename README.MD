@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2a6d,50:7a1fa2,100:00f0ff&height=200&text=LUDOVIC%20BOUZAC&fontColor=ffffff&fontSize=50&fontAlignY=40&stroke=05010a&strokeWidth=2&desc=//%20D%C3%89VELOPPEUR%20FULL-STACK%20//%20NEURAL%20LINK%20ACTIVE&descAlignY=68&descSize=16" alt="Bandeau" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2a6d,50:7a1fa2,100:00f0ff&height=200&text=LUDOVIC%20BOUZAC&fontColor=ffffff&fontSize=50&fontAlignY=40&stroke=05010a&strokeWidth=2&desc=//%20D%C3%89VELOPPEUR%20FULL-STACK&descAlignY=68&descSize=16" alt="Bandeau" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3200&pause=900&color=00F0FF&background=05010A&center=true&vCenter=true&width=700&height=50&lines=%5B+D%C3%A9veloppeur+full-stack+en+alternance+%5D;%5B+Master+Informatique+%C3%A0+l'IPI+Toulouse+%5D;%5B+Je+code+avec+et+autour+de+l'IA+%5D;%5B+Linux+%26+self-hosting+au+quotidien+%5D" alt="Typing SVG" />
@@ -20,20 +20,24 @@
 
 ## // IDENTITE
 
-Étudiant alternant en **Master Informatique à l'IPI (Toulouse)**, je me forme pour devenir **ingénieur développeur**. Rigoureux, avec un bon esprit d'équipe, j'aime autant construire des applications que comprendre ce qui tourne en dessous (réseaux, serveurs, Linux).
+Étudiant en **Master Informatique à l'IPI (Toulouse)** et développeur en alternance chez **Proges**, je conçois des applications complètes, de la base de données à l'interface. Je travaille au quotidien en **C#** et **PostgreSQL**, et je développe aussi en **Python**, **TypeScript / Angular**, **Java**, **Kotlin** et **Rust**.
+
+Rigoureux et à l'aise en équipe, j'aime comprendre toute la chaîne : du code jusqu'aux réseaux et aux serveurs **Linux** que je fais tourner chez moi sous **Proxmox**. J'intègre l'IA (**Claude**, **Claude Code**, **Hermes Agent**) dans mon workflow pour aller plus vite sans sacrifier la qualité.
 
 ```
 > ACCES PROFIL ................ OK
 
-  FORMATION   Master Informatique, IPI Toulouse (2025 - 2027)
-  POSTE       Développeur en alternance, Proges (depuis nov. 2024)
-  RECHERCHE   Alternance d'un an, 3 semaines entreprise / 1 semaine école
-  IA          Claude, Claude Code, Hermes Agent
-  INFRA       Linux au quotidien, homelab Proxmox
-  LANGUES     Français (natif), Anglais (B2), Italien (A1)
-  MOBILITE    Permis B, véhiculé, Toulouse
+  NOM          Ludovic Bouzac
+  ROLE         Développeur full-stack en alternance
+  EMPLOYEUR    Proges (depuis nov. 2024)
+  FORMATION    Master Informatique, IPI Toulouse (2025 - 2027)
+  STACK        C# / PostgreSQL / TypeScript / Python / Rust
+  OUTILS       Linux, Docker, Proxmox, Git, Claude, Hermes Agent
+  LANGUES      Français (natif), Anglais (B2), Italien (A1)
+  MOBILITE     Toulouse, permis B, véhiculé
 
 > STATUT : DISPONIBLE
+> RECHERCHE : alternance d'un an, 3 semaines en entreprise / 1 semaine à l'IPI
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2a6d,100:00f0ff&height=3" width="100%" alt="" />
