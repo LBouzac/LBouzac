@@ -66,7 +66,13 @@ Rigoureux et à l'aise en équipe, j'aime comprendre toute la chaîne : du code 
 
 ## Projets
 
-- [**PVE Hub**](https://github.com/LBouzac/pvehub) : application web (PWA) pour gérer mon serveur **Proxmox** depuis mon téléphone, avec un chat **Hermes Agent** intégré pour piloter le homelab en langage naturel.
+<table>
+<tr>
+<td width="96" align="center"><a href="https://github.com/LBouzac/pvehub"><img src="./assets/pvehub-icon.svg" width="72" alt="Logo PVE Hub" /></a></td>
+<td><a href="https://github.com/LBouzac/pvehub"><b>PVE Hub</b></a><br/>Application web (PWA) pour gérer mon serveur <b>Proxmox</b> depuis mon téléphone, avec un chat <b>Hermes Agent</b> intégré pour piloter le homelab en langage naturel.</td>
+</tr>
+</table>
+
 - [**kermesse.site**](https://kermesse.site) : jeu que j'ai créé sur le site **kermesse.site**.
 
 ## Contact
