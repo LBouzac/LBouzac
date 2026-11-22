@@ -1,32 +1,37 @@
 <div align="center">
 
-<img src="./assets/banner-metro.svg" alt="Ludovic Bouzac, développeur full-stack" width="100%" />
+<img src="./assets/banner-git.svg" alt="Ludovic Bouzac, développeur full-stack en alternance" width="100%" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ludovic--bouzac-f2b705?style=flat-square&labelColor=1d1d1b)](https://www.linkedin.com/in/ludovic-bouzac/)
-[![Email](https://img.shields.io/badge/Email-bouzacludovic%40gmail.com-d62828?style=flat-square&labelColor=1d1d1b)](mailto:bouzacludovic@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ludovic--bouzac-3fb950?style=flat-square&labelColor=0d1117)](https://www.linkedin.com/in/ludovic-bouzac/)
+[![Email](https://img.shields.io/badge/Email-bouzacludovic%40gmail.com-a371f7?style=flat-square&labelColor=0d1117)](mailto:bouzacludovic@gmail.com)
 
 </div>
 
 ## À propos
 
-Étudiant en **Master Informatique à l'IPI (Toulouse)** et développeur en alternance chez **Proges**, je conçois des applications complètes, de la base de données à l'interface. Je travaille au quotidien en **C#** et **PostgreSQL**.
+Étudiant en **Master Informatique à l'IPI (Toulouse)** et développeur en alternance chez **Proges**, je conçois des applications complètes, de la base de données à l'interface. Je travaille au quotidien en **C#** et **PostgreSQL**, et je développe aussi en **Python**, **TypeScript / Angular**, **Java**, **Kotlin** et **Rust**.
 
 Rigoureux et à l'aise en équipe, j'aime comprendre toute la chaîne : du code jusqu'aux réseaux et aux serveurs **Linux** que je fais tourner chez moi sous **Proxmox**. J'intègre l'IA (**Claude**, **Claude Code**, **Hermes Agent**) dans mon workflow pour aller plus vite sans sacrifier la qualité.
 
 - **Langues** : français (langue maternelle), anglais (B2), italien (A1)
 - **Mobilité** : basé à Toulouse, permis B, véhiculé
 
-## Plan des compétences
+## Parcours
 
 <div align="center">
 
-<img src="./assets/metro.svg" alt="Plan de métro des compétences : ligne A back-end et mobile, ligne B infra et IA, ligne C front, données et conception, correspondance Git" width="100%" />
+<img src="./assets/gitgraph.svg" alt="Parcours en graphe git : branche formation (Bac pro, BTS SIO, Bachelor CDAN, Master) et branche alternance (Anras, Proges)" width="100%" />
 
 </div>
 
-Chaque station est une technologie de mon parcours. La correspondance, c'est Git : tout passe par là.
+| Période | Diplôme | Établissement |
+| --- | --- | --- |
+| 2025 - 2027 | Master Informatique (C#, Java, Kotlin, UML, conception logicielle) | IPI, Toulouse |
+| 2024 - 2025 | Bachelor CDAN (Python, Angular, UML, Kotlin, Java), diplôme obtenu | IPI, Toulouse |
+| 2022 - 2024 | BTS SIO option SLAM (PHP, Java, SQL, UML), diplôme obtenu | Institut Limayrac, Toulouse |
+| 2019 - 2022 | Bac pro Systèmes Numériques option RISC (réseaux), diplôme obtenu | Lycée Jules Fil, Carcassonne |
 
 ## Expérience
 
@@ -48,14 +53,23 @@ Chaque station est une technologie de mon parcours. La correspondance, c'est Git
 - **Stack** : `PHP` · `SQL` · `JavaScript` · `Composer` · `sendMail`
 - **Support terrain** : interventions sur les différents sites de la DIME Saint-Jean pour installer et dépanner des logiciels
 
-## Formation
+## Compétences
 
-| Période | Diplôme | Établissement |
-| --- | --- | --- |
-| 2025 - 2027 | Master Informatique (C#, Java, Kotlin, UML, conception logicielle) | IPI, Toulouse |
-| 2024 - 2025 | Bachelor CDAN (Python, Angular, UML, Kotlin, Java), diplôme obtenu | IPI, Toulouse |
-| 2022 - 2024 | BTS SIO option SLAM (PHP, Java, SQL, UML), diplôme obtenu | Institut Limayrac, Toulouse |
-| 2019 - 2022 | Bac pro Systèmes Numériques option RISC (réseaux), diplôme obtenu | Lycée Jules Fil, Carcassonne |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,rust,ts,angular,php,java,spring,kotlin,androidstudio,cs,mysql,postgres,docker,linux,git,github,vscode&perline=9" alt="Technologies" />
+
+</div>
+
+| Domaine | Technologies |
+| --- | --- |
+| **Back-end** | C#, Python (Django), Java (Spring), PHP, Rust |
+| **Front-end** | TypeScript (Angular), HTML / CSS, JavaScript |
+| **Mobile** | Kotlin (Android) |
+| **Données** | SQL (PostgreSQL, MySQL) |
+| **Conception** | UML, conception logicielle, tests unitaires |
+| **Infra & outils** | Linux, Docker, Proxmox, Git / GitHub |
+| **IA** | Claude, Claude Code, Hermes Agent : agents et assistants dans mon workflow de dev |
 
 ## Projets
 
