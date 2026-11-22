@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" width="900" height="450" role="img" aria-label="Compétences en branches git : back-end (C#, Python, Java, PHP, Rust), front-end (TypeScript, Angular, JavaScript, HTML / CSS), mobile (Kotlin, Android), data (PostgreSQL, MySQL), conception (UML, tests unitaires, conception logicielle), infra (Linux, Docker, Proxmox, Git / GitHub), ia (Claude, Claude Code, Hermes Agent)">
+<title>Compétences en branches</title>
+<rect width="900" height="450" rx="14" fill="#0d1117"/>
+<path d="M60 36 V380" stroke="#e6edf3" stroke-width="4" fill="none" stroke-linecap="round"/>
+<rect x="30" y="10" width="60" height="22" rx="4" fill="#e6edf3"/>
+<text x="60" y="26" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="13" font-weight="700" fill="#0d1117">main</text>
+<g fill="none" stroke-width="4" stroke-linecap="round">
+<path d="M60 80 C60 100 78 100 98 100 H790" stroke="#3fb950"/>
+<path d="M60 130 C60 150 78 150 98 150 H665" stroke="#58a6ff"/>
+<path d="M60 180 C60 200 78 200 98 200 H415" stroke="#f0883e"/>
+<path d="M60 230 C60 250 78 250 98 250 H415" stroke="#e3b341"/>
+<path d="M60 280 C60 300 78 300 98 300 H540" stroke="#39c5cf"/>
+<path d="M60 330 C60 350 78 350 98 350 H665" stroke="#a371f7"/>
+<path d="M60 380 C60 400 78 400 98 400 H540" stroke="#ff7b72"/>
+</g>
+<g stroke="#0d1117" stroke-width="3">
+<g fill="#3fb950"><circle cx="250" cy="100" r="7"/><circle cx="375" cy="100" r="7"/><circle cx="500" cy="100" r="7"/><circle cx="625" cy="100" r="7"/><circle cx="750" cy="100" r="7"/></g>
+<g fill="#58a6ff"><circle cx="250" cy="150" r="7"/><circle cx="375" cy="150" r="7"/><circle cx="500" cy="150" r="7"/><circle cx="625" cy="150" r="7"/></g>
+<g fill="#f0883e"><circle cx="250" cy="200" r="7"/><circle cx="375" cy="200" r="7"/></g>
+<g fill="#e3b341"><circle cx="250" cy="250" r="7"/><circle cx="375" cy="250" r="7"/></g>
+<g fill="#39c5cf"><circle cx="250" cy="300" r="7"/><circle cx="375" cy="300" r="7"/><circle cx="500" cy="300" r="7"/></g>
+<g fill="#a371f7"><circle cx="250" cy="350" r="7"/><circle cx="375" cy="350" r="7"/><circle cx="500" cy="350" r="7"/><circle cx="625" cy="350" r="7"/></g>
+<g fill="#ff7b72"><circle cx="250" cy="400" r="7"/><circle cx="375" cy="400" r="7"/><circle cx="500" cy="400" r="7"/></g>
+</g>
+<g font-family="'Courier New', Consolas, monospace" font-size="13" font-weight="700">
+<text x="108" y="92" fill="#3fb950">back-end</text>
+<text x="108" y="142" fill="#58a6ff">front-end</text>
+<text x="108" y="192" fill="#f0883e">mobile</text>
+<text x="108" y="242" fill="#e3b341">data</text>
+<text x="108" y="292" fill="#39c5cf">conception</text>
+<text x="108" y="342" fill="#a371f7">infra</text>
+<text x="108" y="392" fill="#ff7b72">ia</text>
+</g>
+<g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#e6edf3" text-anchor="middle">
+<text x="250" y="86">C#</text><text x="375" y="86">Python</text><text x="500" y="86">Java</text><text x="625" y="86">PHP</text><text x="750" y="86">Rust</text>
+<text x="250" y="136">TypeScript</text><text x="375" y="136">Angular</text><text x="500" y="136">JavaScript</text><text x="625" y="136">HTML / CSS</text>
+<text x="250" y="186">Kotlin</text><text x="375" y="186">Android</text>
+<text x="250" y="236">PostgreSQL</text><text x="375" y="236">MySQL</text>
+<text x="250" y="286">UML</text><text x="375" y="286">Tests unitaires</text><text x="500" y="286">Conception logicielle</text>
+<text x="250" y="336">Linux</text><text x="375" y="336">Docker</text><text x="500" y="336">Proxmox</text><text x="625" y="336">Git / GitHub</text>
+<text x="250" y="386">Claude</text><text x="375" y="386">Claude Code</text><text x="500" y="386">Hermes Agent</text>
+</g>
+</svg>
