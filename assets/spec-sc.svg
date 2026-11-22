@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 150" width="640" height="150" role="img" aria-label="Fiche technique : rôle développeur full-stack, stack C# et PostgreSQL, base IPI Toulouse, équipe Proges, langues français, anglais B2, italien A1, IA Claude et Hermes Agent, infra Linux et Proxmox, Toulouse, permis B">
+<title>Fiche technique</title>
+<rect width="640" height="150" fill="#020a10"/>
+<polygon points="0,0 610,0 640,30 640,150 30,150 0,120" fill="#07202e" stroke="#4fd1ff" stroke-width="1.5"/>
+<text x="20" y="30" font-family="'Courier New', Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#ff9f1a">FICHE TECHNIQUE</text>
+<line x1="20" y1="40" x2="600" y2="40" stroke="#4fd1ff" stroke-width="1" opacity="0.6"/>
+<g font-family="'Courier New', Consolas, monospace" font-size="11" letter-spacing="1" fill="#5fb3d1">
+<text x="20" y="68">RÔLE</text><text x="20" y="92">STACK</text><text x="20" y="116">BASE</text><text x="20" y="140">ÉQUIPE</text>
+<text x="330" y="68">LANGUES</text><text x="330" y="92">IA</text><text x="330" y="116">INFRA</text><text x="330" y="140">MOBILITÉ</text>
+</g>
+<g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#e8f9ff">
+<text x="100" y="68">Développeur full-stack</text><text x="100" y="92">C# · PostgreSQL</text><text x="100" y="116">IPI Toulouse</text><text x="100" y="140">Proges</text>
+<text x="420" y="68">FR · EN B2 · IT A1</text><text x="420" y="92">Claude · Hermes Agent</text><text x="420" y="116">Linux · Proxmox</text><text x="420" y="140">Toulouse · permis B</text>
+</g>
+</svg>

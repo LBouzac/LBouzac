@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" role="img" aria-label="Carte stellaire des compétences : back-end (C#, Python, Java, PHP, Rust), front-end (TypeScript, Angular, JavaScript, HTML / CSS), infra (Linux, Docker, Proxmox), mobile (Kotlin, Android), data (PostgreSQL, MySQL), IA (Claude, Claude Code, Hermes Agent), tous reliés à Git">
+<title>Carte stellaire des compétences</title>
+<rect width="640" height="300" fill="#020a10"/>
+<polygon points="0,0 610,0 640,30 640,300 30,300 0,270" fill="#07202e" stroke="#4fd1ff" stroke-width="1.5"/>
+<text x="20" y="22" font-family="'Courier New', Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#ff9f1a">CARTE STELLAIRE · COMPÉTENCES</text>
+<g fill="#ffffff" opacity="0.5"><circle cx="40" cy="150" r="1.2"/><circle cx="220" cy="110" r="1"/><circle cx="430" cy="190" r="1.2"/><circle cx="610" cy="150" r="1"/><circle cx="250" cy="200" r="1"/><circle cx="400" cy="120" r="1.2"/></g>
+<g stroke="#4fd1ff" stroke-width="1.2" stroke-dasharray="5 4" opacity="0.7">
+<line x1="320" y1="155" x2="100" y2="92"/><line x1="320" y1="155" x2="320" y2="92"/><line x1="320" y1="155" x2="540" y2="92"/>
+<line x1="320" y1="155" x2="100" y2="218"/><line x1="320" y1="155" x2="320" y2="218"/><line x1="320" y1="155" x2="540" y2="218"/>
+</g>
+<g fill="#04111b" stroke="#4fd1ff" stroke-width="2">
+<circle cx="100" cy="92" r="9"/><circle cx="320" cy="92" r="9"/><circle cx="540" cy="92" r="9"/>
+<circle cx="100" cy="218" r="9"/><circle cx="320" cy="218" r="9"/><circle cx="540" cy="218" r="9"/>
+</g>
+<g fill="none" stroke="#ff9f1a" stroke-width="1" stroke-dasharray="3 3">
+<circle cx="100" cy="92" r="15"/><circle cx="320" cy="92" r="15"/><circle cx="540" cy="92" r="15"/>
+<circle cx="100" cy="218" r="15"/><circle cx="320" cy="218" r="15"/><circle cx="540" cy="218" r="15"/>
+</g>
+<circle cx="320" cy="155" r="13" fill="#ff9f1a" stroke="#04111b" stroke-width="3"/>
+<text x="340" y="159" font-family="'Courier New', Consolas, monospace" font-size="12" font-weight="700" fill="#ff9f1a">GIT</text>
+<g font-family="'Courier New', Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#ff9f1a" text-anchor="middle">
+<text x="100" y="40">BACK-END</text><text x="320" y="40">FRONT-END</text><text x="540" y="40">INFRA</text>
+<text x="100" y="250">MOBILE</text><text x="320" y="250">DATA</text><text x="540" y="250">IA</text>
+</g>
+<g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#e8f9ff" text-anchor="middle">
+<text x="100" y="58">C# · Python · Java</text><text x="100" y="74">PHP · Rust</text>
+<text x="320" y="58">TypeScript · Angular</text><text x="320" y="74">JavaScript · HTML / CSS</text>
+<text x="540" y="58">Linux · Docker</text><text x="540" y="74">Proxmox</text>
+<text x="100" y="268">Kotlin · Android</text>
+<text x="320" y="268">PostgreSQL · MySQL</text>
+<text x="540" y="268">Claude · Claude Code</text><text x="540" y="284">Hermes Agent</text>
+</g>
+</svg>
