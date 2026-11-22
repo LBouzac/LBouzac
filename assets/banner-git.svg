@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Ludovic Bouzac, développeur full-stack en alternance chez Proges, Master Informatique à l'IPI Toulouse">
+<title>Ludovic Bouzac</title>
+<rect width="1200" height="240" rx="14" fill="#0d1117"/>
+<text x="60" y="50" font-family="'Courier New', Consolas, monospace" font-size="20" fill="#8b949e">$ git log --graph --oneline</text>
+<line x1="70" y1="100" x2="70" y2="200" stroke="#3fb950" stroke-width="3"/>
+<g fill="#3fb950" stroke="#0d1117" stroke-width="3">
+<circle cx="70" cy="100" r="8"/><circle cx="70" cy="150" r="8"/><circle cx="70" cy="200" r="8"/>
+</g>
+<g font-family="'Courier New', Consolas, monospace" font-size="22">
+<text x="100" y="108"><tspan fill="#e3b341">7f3a9c2</tspan><tspan dx="14" fill="#3fb950">(HEAD -> main)</tspan><tspan dx="14" fill="#ffffff" font-size="40" font-weight="700">Ludovic Bouzac</tspan></text>
+<text x="100" y="158"><tspan fill="#e3b341">c41d8e0</tspan><tspan dx="14" fill="#e6edf3">Développeur full-stack en alternance chez Proges</tspan></text>
+<text x="100" y="208"><tspan fill="#e3b341">2b9e6a1</tspan><tspan dx="14" fill="#e6edf3">Master Informatique à l'IPI, Toulouse</tspan></text>
+</g>
+</svg>

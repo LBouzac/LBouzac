@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" role="img" aria-label="Parcours de Ludovic Bouzac en graphe git : la branche formation (Bac pro, BTS SIO, Bachelor, Master) et la branche alternance (Anras, Proges)">
+<title>Parcours en graphe git</title>
+<rect width="900" height="340" rx="14" fill="#0d1117"/>
+<g fill="none" stroke-width="4" stroke-linecap="round">
+<path d="M80 110 H840" stroke="#3fb950"/>
+<path d="M395 110 C395 190 470 240 470 240 H840" stroke="#a371f7"/>
+</g>
+<g stroke="#0d1117" stroke-width="3">
+<circle cx="80" cy="110" r="9" fill="#3fb950"/><circle cx="395" cy="110" r="9" fill="#3fb950"/>
+<circle cx="605" cy="110" r="9" fill="#3fb950"/><circle cx="710" cy="110" r="9" fill="#3fb950"/>
+<circle cx="552" cy="240" r="9" fill="#a371f7"/><circle cx="680" cy="240" r="9" fill="#a371f7"/>
+</g>
+<g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+<g font-size="15" font-weight="700" fill="#ffffff">
+<text x="80" y="62">Bac pro</text><text x="395" y="62">BTS SIO</text><text x="605" y="62">Bachelor CDAN</text><text x="710" y="62">Master</text>
+<text x="552" y="280">Anras</text><text x="680" y="280">Proges</text>
+</g>
+<g font-size="12" fill="#8b949e">
+<text x="80" y="80">2019 · Carcassonne</text><text x="395" y="80">2022 · Limayrac</text><text x="605" y="80">2024 · IPI</text><text x="710" y="80">2025 · IPI</text>
+<text x="552" y="298">2023 · Plaisance</text><text x="680" y="298">2024 · Labège</text>
+</g>
+</g>
+<g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13">
+<text x="60" y="150" fill="#3fb950">main · formation</text>
+<text x="448" y="262" fill="#a371f7" text-anchor="end">alternance</text>
+</g>
+<rect x="770" y="84" width="58" height="20" rx="4" fill="#3fb950"/>
+<text x="799" y="98" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="700" fill="#0d1117">HEAD</text>
+<rect x="760" y="214" width="76" height="20" rx="4" fill="#a371f7"/>
+<text x="798" y="228" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="700" fill="#0d1117">en cours</text>
+</svg>
